@@ -38,7 +38,4 @@ https://github.com/aryan0769/Online-Book-Shop
 - `manage.py`
 - `requirements.txt`
 
-## How to Run
-1. Clone the repository
-```bash
-git clone https://github.com/aryan0769/Online-Book-Shop.git
+
