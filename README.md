@@ -1,21 +1,44 @@
-An Online Bookstore application built with Python and Django, designed to provide users with an intuitive platform to browse, search, and purchase books online. The project demonstrates a fully functional e-commerce platform with user authentication, shopping cart functionality, and order management
+# Online Book Shop
 
-User Features:
-User Registration and Login: Secure user authentication with hashed passwords.
-Browse Books: Explore books categorized by genre, author, and publisher.
-Search Functionality: Advanced search with filters for quick book discovery.
-Shopping Cart: Add books to the cart and adjust quantities or remove items.
-Order Management: Seamless checkout and order history tracking.
+Online Book Shop is a web application built using **Python, Django, HTML, CSS, Bootstrap, JavaScript, and SQLite**.  
+It allows users to browse books, search books, add books to cart, and manage orders online.
 
-Admin Features:
-Book Management: Add, edit, and delete books with details like price, description, and stock.
-Order Management: View and manage user orders and update order statuses.
+## Live Demo
+https://online-book-shop-izmg.onrender.com
 
-Backend:
-Python: Core programming language.
-Django: Framework used for building the application.
-SQLite: Default database for development.
+## GitHub Repository
+https://github.com/aryan0769/Online-Book-Shop
 
-Frontend:
-HTML5/CSS3: Markup and styling.
-Bootstrap: For responsive design and layout.
+## Features
+- User registration and login
+- Browse books
+- Search books
+- Add books to cart
+- Order management
+- Category-wise book display
+
+## Tech Stack
+- Python
+- Django
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+- SQLite
+- Render
+- GitHub
+
+## Project Structure
+- `bookstore/` → Main Django project folder
+- `cart/` → Cart app
+- `files/` → Media files
+- `order/` → Order app
+- `search/` → Search app
+- `store/` → Store app
+- `manage.py`
+- `requirements.txt`
+
+## How to Run
+1. Clone the repository
+```bash
+git clone https://github.com/aryan0769/Online-Book-Shop.git
